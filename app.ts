@@ -26,4 +26,4 @@ console.log(combinedStringAges)
 const combinedNames = combine('Wurk', 'Majo', 'as-text')
 console.log(combinedNames)
 
-// github test
+// github test 2
